@@ -11,6 +11,14 @@
 
 ## Installation
 
+###### Using Homebrew
+
+- ```bash
+  brew tap mj-963/kill-server
+  brew install kill-server
+
+###### Manual Installation
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/kill-server.git
